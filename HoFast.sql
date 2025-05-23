@@ -320,27 +320,6 @@ CREATE TABLE `users` (
   `user_img` varchar(255) DEFAULT 'default.jpg'
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
---
--- Dumping data for table `users`
---
-
-INSERT INTO `users` (`id`, `first_name`, `last_name`, `email`, `password`, `created_at`, `role`, `user_img`) VALUES
-(15, 'fahd', 'Elantably', 'fahdelantably00@gmail.com', '$2y$10$5QFh5rhMWZ09nDxxoHKHDed7KsX9z41d2vnQL0Vh/8S8iExWDuR4m', '2025-05-18 05:43:19', 'user', 'default.jpg'),
-(16, 'Amr', 'khaled', 'amr.khaled.admin@example.com', 'admin111', '2025-05-18 06:47:18', 'admin', 'default.jpg'),
-(17, 'Eyad', 'Magdy', 'eyad.magdy.admin@example.com', 'admin123', '2025-05-18 06:47:18', 'admin', 'default.jpg'),
-(18, 'Ziad', 'Saeed', 'ziad.saeed.admin@example.com', 'admin124', '2025-05-18 06:47:18', 'admin', 'default.jpg'),
-(19, 'Badr', 'Mohamed', 'badr.mohamed.admin@example.com', 'admin125', '2025-05-18 06:47:18', 'admin', 'default.jpg'),
-(20, 'Hanan', 'Tarek', 'hanan.tarek.admin@example.com', 'admin126', '2025-05-18 06:47:18', 'admin', 'default.jpg'),
-(21, 'Ibrahim', 'Eldesouky', 'ibrahim.eldesouky.admin@example.com', 'admin111', '2025-05-18 06:47:18', 'admin', 'default.jpg'),
-(50, 'Eyad', 'Magdy', 'Eyad100@gmail.com', '$2y$10$j5niqbxUIhLgGwgsR7Byo.gzneZ53a4J6Xt5gUvKlOCAnZrvaZf1i', '2025-05-20 05:34:51', 'user', 'default.jpg'),
-(51, 'zeyadMenofia', 'saeed', 'zsaeed@gmail.com', '$2y$10$KU4Q8MgRJtSkaUtggfm3.OUELPoqOUv28K6DBOMJMFokxHtc3oRsu', '2025-05-20 05:36:58', 'user', 'default.jpg'),
-(54, 'Amr', 'Ahmed', 'amrkhaledahasasasasasasmed100@gmail.com', '$2y$10$3o3Znb3O7LUYfESU53pthuSqPbwuiAyguev9.BWDxlxtgM43FqXC.', '2025-05-20 06:28:07', 'user', 'default.jpg'),
-(55, 'Mamon', 'Ahmed', 'Manmonahmed100@gmail.com', '$2y$10$Myow1suWiOaJE4j0FqjcKO/YhtedH7Ci9NDXytBgIHiYC0kVbbrpi', '2025-05-20 06:31:42', 'user', 'default.jpg'),
-(57, 'Amr', 'Ahmed', 'amrkhaledahmed100@gmail.com', '$2y$10$Q./v9UBh5JsUWNOgsr3rze3UfBHu6B7iSiosrLwycj8m8ycbps2QG', '2025-05-21 20:21:47', 'user', 'default.jpg');
-
--- --------------------------------------------------------
-
---
 -- Structure for view `show all`
 --
 DROP TABLE IF EXISTS `show all`;
