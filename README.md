@@ -57,5 +57,5 @@ Custom admin dashboards were built using PHP for managing website content dynami
 
 > *You can add screenshots here if available using:*
 ```md
-![Home Page](screenshots/home.png)
+![Home Page](source/Home.png)
 ![Hotel Page](screenshots/hotels.png)
