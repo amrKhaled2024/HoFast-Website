@@ -1,11 +1,11 @@
-# 🏨 Hofast – Hotel Booking Website
+# Hofast – Hotel Booking Website
 
 **Hofast** is a full-stack hotel booking website built using **HTML, CSS, JavaScript, PHP, and MySQL**.  
 This project was created as part of a university assignment to practice and apply full-stack web development skills in a real-world scenario.
 
 ---
 
-## 🔹 Why "Hofast"?
+## Why "Hofast"?
 
 The name **Hofast** is a combination of the words **"Hotel"** and **"Fast"**, representing the main idea behind the platform:
 
@@ -13,7 +13,7 @@ The name **Hofast** is a combination of the words **"Hotel"** and **"Fast"**, re
 
 ---
 
-## 🌐 Website Pages
+## Website Pages
 
 - **Home Page** – Landing page with clean design
 - **Hotels Page** – List of available hotels loaded dynamically from the database
@@ -24,7 +24,7 @@ The name **Hofast** is a combination of the words **"Hotel"** and **"Fast"**, re
 
 ---
 
-## 🛠️ Admin Dashboards
+## Admin Dashboards
 
 Custom admin dashboards were built using PHP for managing website content dynamically:
 
@@ -34,7 +34,7 @@ Custom admin dashboards were built using PHP for managing website content dynami
 
 ---
 
-## 🗄️ Technologies Used
+## Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: PHP
@@ -43,7 +43,7 @@ Custom admin dashboards were built using PHP for managing website content dynami
 
 ---
 
-## ⚙️ Features
+## Features
 
 - Full CRUD functionality (hotels, rooms, users)
 - Secure login system with form validation
@@ -53,7 +53,7 @@ Custom admin dashboards were built using PHP for managing website content dynami
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 > *You can add screenshots here if available using:*
 ```md
