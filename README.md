@@ -1,4 +1,5 @@
-# Hofast – Hotel Booking Website
+# Hofast – Hotel Booking Website  
+![Logo](/source/logo_small.jpg)
 
 **Hofast** is a full-stack hotel booking website built using **HTML, CSS, JavaScript, PHP, and MySQL**.  
 This project was created as part of a university assignment to practice and apply full-stack web development skills in a real-world scenario.
